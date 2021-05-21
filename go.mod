@@ -13,7 +13,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.0.0
 	github.com/aws/aws-sdk-go-v2/service/athena v1.0.0
 	github.com/coocood/freecache v1.1.1
-	github.com/flyteorg/flyteidl v0.18.25
+	github.com/flyteorg/flyteidl v0.18.44
 	github.com/flyteorg/flytestdlib v0.3.13
 	github.com/go-logr/zapr v0.4.0 // indirect
 	github.com/go-test/deep v1.0.7
@@ -27,6 +27,7 @@ require (
 	github.com/magiconair/properties v1.8.4
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/pkg/errors v0.9.1
+	github.com/pquerna/cachecontrol v0.0.0-20180517163645-1555304b9b35 // indirect
 	github.com/prometheus/client_golang v1.9.0
 	github.com/prometheus/common v0.18.0 // indirect
 	github.com/prometheus/procfs v0.6.0 // indirect
@@ -41,6 +42,7 @@ require (
 	golang.org/x/term v0.0.0-20210220032956-6a3ed077a48d // indirect
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba // indirect
 	google.golang.org/grpc v1.35.0
+	gopkg.in/square/go-jose.v2 v2.4.1 // indirect
 	gotest.tools v2.2.0+incompatible
 	k8s.io/api v0.20.2
 	k8s.io/apimachinery v0.20.2
